@@ -1,3 +1,3 @@
 # AAK-Kysely
 Digiprojektin harjoitus
-Tämä projekti on tarkoitettu näyttämään miten goit ja Github toimii.
+Tämä projekti on tarkoitettu näyttämään miten git ja Github toimii.
